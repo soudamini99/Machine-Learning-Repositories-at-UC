@@ -1,0 +1,754 @@
+{Undefined function or variable 'X'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 12)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',12,0)">line 12</a>)
+plot(X,'*');
+} 
+MLHW5Main
+MLHW5Main
+{Error: <a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',36,7)">File: MLHW5Main.m Line: 36 Column: 7
+</a>Expression or statement is incomplete or incorrect.
+} 
+clear all
+clc
+MLHW5Main
+{Undefined function or variable 'u'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 17)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',17,0)">line 17</a>)
+alpha(3) =  (-(alpha(1:2)*u(1:2)'))/y(3);
+} 
+MLHW5Main
+{Undefined function or variable 'u'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 17)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',17,0)">line 17</a>)
+alpha(3) =  (-(alpha(1:2)*u(1:2)'))/y(3);
+} 
+MLHW5Main
+{Undefined function or variable 'lenght'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 22)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',22,0)">line 22</a>)
+n=lenght(x(:,1));
+} 
+MLHW5Main
+
+w =
+
+   14.2896
+
+ 
+KKT =
+ 
+[ - (8621393422876569*b)/9007199254740992 - 43649116895788361487667558865565/316912650057057350374175801344, (4371875181445801*b)/9007199254740992 + 21903565434916333365926648800237/158456325028528675187087900672, (265594890089423*b)/562949953421312 + 250958685728952714473629997601/1237940039285380274899124224]
+ 
+
+ans =
+
+    10
+
+
+tempE =
+
+  -95.7167   97.0751  141.5374
+         0  194.1503  283.0748
+         0         0  424.6122
+
+
+y =
+
+    -1     1    -1
+
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('sym/subsref', 'C:\Program Files\MATLAB\R2017a\toolbox\symbolic\symbolic\@sym\sym.m', 841)" style="font-weight:bold">sym/subsref</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\symbolic\symbolic\@sym\sym.m',841,0)">line 841</a>)
+            R_tilde = builtin('subsref',L_tilde,Idx);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 69)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',69,0)">line 69</a>)
+alpha_new = alpha_old(1)+y(3)*y(1)*(alpha_old(3) -alpha_new(3));
+} 
+MLHW5Main
+{Undefined operator '*' for input arguments of type 'cell'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 13)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',13,0)">line 13</a>)
+alpha*y';
+} 
+MLHW5Main
+{Undefined operator '.*' for input arguments of type 'cell'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 13)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',13,0)">line 13</a>)
+alpha.*y';
+} 
+MLHW5Main
+{Undefined operator '*' for input arguments of type 'cell'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 13)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',13,0)">line 13</a>)
+(alpha)*(y');
+} 
+MLHW5Main
+{Error: <a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',12,13)">File: MLHW5Main.m Line: 12 Column: 13
+</a>Unbalanced or unexpected parenthesis or bracket.
+} 
+MLHW5Main
+{Undefined operator '*' for input arguments of type 'cell'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 13)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',13,0)">line 13</a>)
+alpha*transpose(y);
+} 
+MLHW5Main
+{Undefined operator '.*' for input arguments of type 'cell'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 13)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',13,0)">line 13</a>)
+alpha.*transpose(y);
+} 
+clear all
+clc
+MLHW5Main
+{Undefined function or variable 'D'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 6)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',6,0)">line 6</a>)
+muM=mean(D);
+} 
+MLHW5Main
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('sum')" style="font-weight:bold">sum</a>
+Invalid data type. First argument must be numeric or logical.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mean', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\datafun\mean.m', 117)" style="font-weight:bold">mean</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\datafun\mean.m',117,0)">line 117</a>)
+        y = sum(x, dim, flag)/size(x,dim);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 6)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',6,0)">line 6</a>)
+muM=mean(data);
+} 
+MLHW5Main
+
+repmu =
+
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+
+{Undefined operator '-' for input arguments of type 'struct'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 10)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',10,0)">line 10</a>)
+norm_data = (data-repmu)./repstd;
+} 
+MLHW5Main
+
+repmu =
+
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+
+{Matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 10)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',10,0)">line 10</a>)
+norm_data = (data.meas-repmu)./repstd;
+} 
+MLHW5Main
+
+repmu =
+
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+
+{Undefined operator '*' for input arguments of type 'cell'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 19)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',19,0)">line 19</a>)
+alpha*y';
+} 
+clear all
+clc
+MLHW5Main
+
+repmu =
+
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+    5.8433    3.0573    3.7580    1.1993
+
+{Undefined operator '*' for input arguments of type 'cell'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 19)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',19,0)">line 19</a>)
+alpha*y';
+} 
+clear all
+clc
+MLHW5Main
+{Undefined operator '*' for input arguments of type 'cell'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 19)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',19,0)">line 19</a>)
+alpha*y';
+} 
+MLHW5Main
+{Cannot find an exact (case-sensitive) match for 'Num2Cell'
+
+The closest match is: num2cell in C:\Program Files\MATLAB\R2017a\toolbox\matlab\datatypes\num2cell.m
+
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 14)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',14,0)">line 14</a>)
+y = Num2Cell(data.species);
+} 
+MLHW5Main
+{Undefined operator '*' for input arguments of type 'cell'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 19)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',19,0)">line 19</a>)
+alpha*y';
+} 
+MLHW5Main
+{Undefined function or variable 'lenght'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 14)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',14,0)">line 14</a>)
+for i=1:lenght(data.species)
+} 
+MLHW5Main
+{Undefined operator '*' for input arguments of type 'cell'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 21)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',21,0)">line 21</a>)
+alpha*y';
+} 
+MLHW5Main
+{Undefined operator '*' for input arguments of type 'cell'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 21)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',21,0)">line 21</a>)
+alpha*y';
+} 
+MLHW5Main
+{Undefined function or variable 'string2num'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 15)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',15,0)">line 15</a>)
+    y(i,1) = string2num(data.species(i,1));
+} 
+MLHW5Main
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('str2num', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\strfun\str2num.m', 31)" style="font-weight:bold">str2num</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\strfun\str2num.m',31,0)">line 31</a>)
+Requires character vector or array input.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 15)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',15,0)">line 15</a>)
+    y(i,1) = str2num(data.species(i,1));
+} 
+MLHW5Main
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('str2num', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\strfun\str2num.m', 31)" style="font-weight:bold">str2num</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\strfun\str2num.m',31,0)">line 31</a>)
+Requires character vector or array input.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 15)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',15,0)">line 15</a>)
+    y(i,1) = str2num(data.species);
+} 
+MLHW5Main
+{Undefined function or variable 'species'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 15)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',15,0)">line 15</a>)
+for i = 1:length(species)
+} 
+MLHW5Main
+{Undefined operator '*' for input arguments of type 'cell'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 31)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',31,0)">line 31</a>)
+alpha*y';
+} 
+clear all
+clc
+MLHW5Main
+{Undefined operator '*' for input arguments of type 'cell'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 31)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',31,0)">line 31</a>)
+alpha*y';
+} 
+MLHW5Main
+{Undefined operator '.*' for input arguments of type 'cell'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 31)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',31,0)">line 31</a>)
+alpha.*y';
+} 
+MLHW5Main
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('alpha')" style="font-weight:bold">alpha</a>
+Too many output arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 41)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',41,0)">line 41</a>)
+    temp(i,:) = alpha(i)*y(i)*x(i,:);
+} 
+MLHW5Main
+{Undefined operator '*' for input arguments of type 'cell'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MLHW5Main', 'E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m', 31)" style="font-weight:bold">MLHW5Main</a> (<a href="matlab: opentoline('E:\Cincinnati\Classes\ML\Assignment 5\MLHW5Main.m',31,0)">line 31</a>)
+a = alpha*y';
+} 

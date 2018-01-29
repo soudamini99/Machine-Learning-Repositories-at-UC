@@ -1,0 +1,3 @@
+load iris.dat
+iris
+
